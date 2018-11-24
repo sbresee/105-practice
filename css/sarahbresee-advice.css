@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Niramit', sans-serif;  */
+
+body {
+	width: 1200px;
+}
+
+header h1 {
+	font-family: 'Niramit', sans-serif;
+}
+
+.intro {
+	width: 600px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
